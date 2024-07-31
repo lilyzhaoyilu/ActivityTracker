@@ -104,3 +104,6 @@ dist
 .tern-port
 
 src/configs/auth*
+
+# Will be set on server
+db
